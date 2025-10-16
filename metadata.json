@@ -1,0 +1,5 @@
+{
+  "name": "AI Video Production Assistant",
+  "description": "An intelligent tool to analyze video production JSON scripts. It detects issues like physics errors, character inconsistencies, and plot holes, offers auto-fixes, and exports to a VEO 3-ready format for streamlined video creation.",
+  "requestFramePermissions": []
+}
